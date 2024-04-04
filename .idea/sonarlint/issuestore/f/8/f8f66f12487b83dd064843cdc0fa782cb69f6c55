@@ -1,0 +1,42 @@
+
+€
+java:S1192("^Define a constant instead of duplicating this literal "--------------xxxxxxxxxxxxxxx" 4 times.(Öåäåıÿÿÿÿ8ØºÙ­1
+r
+java:S11927"PDefine a constant instead of duplicating this literal "ç´¯åŠ å’Œä¸ºï¼š" 4 times.(ğç…şÿÿÿÿ8ÙºÙ­1
+D
+java:S1604?"(Make this anonymous inner class a lambda(ò·øy8ÚºÙ­1
+I
+java:S1602",Remove useless curly braces around statement(ö‰Úü8õºÙ­1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(šø•‹øÿÿÿÿ8õºÙ­1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(†·§ÿÿÿÿÿ8õºÙ­1
+N
+java:S1602",Remove useless curly braces around statement(¥ä¿üÿÿÿÿ8õºÙ­1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(šø•‹øÿÿÿÿ8õºÙ­1
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(†·§ÿÿÿÿÿ8öºÙ­1
+p
+java:S1602""SRemove useless curly braces around statement and then remove useless return keyword(ô®é8öºÙ­1
+Y
+java:S1612""<Replace this lambda with method reference 'Student::getNum'.(ô®é8öºÙ­1
+N
+java:S1602%",Remove useless curly braces around statement(êèÅıÿÿÿÿ8öºÙ­1
+b
+java:S1612%"@Replace this lambda with method reference 'System.out::println'.(êèÅıÿÿÿÿ8öºÙ­1
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(Ä©‚šÿÿÿÿÿ8÷ºÙ­1
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(Öåäåıÿÿÿÿ8÷ºÙ­1
+I
+java:S1602*",Remove useless curly braces around statement(í†¨8÷ºÙ­1
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(šø•‹øÿÿÿÿ8÷ºÙ­1
+T	java:S106-"9Replace this use of System.out or System.err by a logger.(Şæ‚K8øºÙ­1
+H
+java:S1602/",Remove useless curly braces around statement(àá‰G8øºÙ­1
+\
+java:S1612/"@Replace this lambda with method reference 'System.out::println'.(àá‰G8ùºÙ­1
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ8ùºÙ­1
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(Öåäåıÿÿÿÿ8ùºÙ­1
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(µˆœÑ8úºÙ­1
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(ğç…şÿÿÿÿ8úºÙ­1
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(Öåäåıÿÿÿÿ8úºÙ­1
+U	java:S106:"9Replace this use of System.out or System.err by a logger.(³±ÒÁ8ûºÙ­1
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(ûû8ûºÙ­1
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(Öåäåıÿÿÿÿ8ıºÙ­1
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(ªŠ«ùşÿÿÿÿ8›ÖºÙ­1

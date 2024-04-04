@@ -1,0 +1,17 @@
+
+0
+java:S1220""Move this file to a named package.
+<
+java:S2111"!Use "BigDecimal.valueOf" instead.(›¼Þÿÿÿÿÿ
+<
+java:S2111"!Use "BigDecimal.valueOf" instead.(±•Á±ýÿÿÿÿ
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(‡°Õ
+V	java:S125"<This block of commented-out lines of code should be removed.(åŽñ‰ýÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Ãúªµûÿÿÿÿ
+E
+java:S1128"/Remove this unused import 'java.util.Calendar'.(ÿÛö´
+D
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›
+L
+java:S1144A"1Remove this unused private "divideMethod" method.(Ø½¼ûÿÿÿÿ
